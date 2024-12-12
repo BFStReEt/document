@@ -9,3 +9,4 @@
 <h1>Phân quyền với package Laravel permission</h1>
 <h2>Cài đặt Laravel Permission</h2>
 composer require spatie/laravel-permission
+<br>https://viblo.asia/p/phan-quyen-don-gian-voi-package-laravel-permission-gGJ59oOjZX2
